@@ -1,5 +1,5 @@
 # Blog
- Blog de VideoJuegos / Master en PHP con Victor Robles.
+ Blog de VideoJuegos / Master de PHP en Udemy
 
 ![](screenshot/img1.jpg)
 ![](screenshot/img2.jpg)
