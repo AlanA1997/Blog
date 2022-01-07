@@ -1,5 +1,5 @@
 # Blog
- Blog de VideoJuegos / Master de PHP en Udemy
+ Blog de VideoJuegos
 
 ![](screenshot/img1.jpg)
 ![](screenshot/img2.jpg)
